@@ -5,31 +5,31 @@ export const metadata = {
 const documents = [
   {
     name: "Formulário de Referência",
-    href: "/04%20-%20FORMULARIO%20DE%20REFERENCIA%20-%20BRUDER%20CAPITAL.pdf",
+    href: "https://raw.githubusercontent.com/fredericosampaiobarros-cpu/bruder-site/main/04%20-%20FORMULARIO%20DE%20REFERENCIA%20-%20BRUDER%20CAPITAL.pdf",
   },
   {
     name: "Código de Ética e Conduta",
-    href: "/06%20-%20CODIGO%20DE%20ETICA%20E%20CONDUTA%20-%20BRUDER%20CAPITAL.pdf",
+    href: "https://raw.githubusercontent.com/fredericosampaiobarros-cpu/bruder-site/main/06%20-%20CODIGO%20DE%20ETICA%20E%20CONDUTA%20-%20BRUDER%20CAPITAL.pdf",
   },
   {
     name: "Política de Compliance e Controles Internos",
-    href: "/07%20-%20POLITICA%20DE%20COMPLIANCE%20E%20CONTROLES%20INTERNOS%20-%20BRUDER%20CAPITAL.pdf",
+    href: "https://raw.githubusercontent.com/fredericosampaiobarros-cpu/bruder-site/main/07%20-%20POLITICA%20DE%20COMPLIANCE%20E%20CONTROLES%20INTERNOS%20-%20BRUDER%20CAPITAL.pdf",
   },
   {
     name: "Política de Segurança da Informação e LGPD",
-    href: "/08%20-%20POLITICA%20DE%20SEGURANCA%20DA%20INFORMACAO%20E%20LGPD%20-%20BRUDER%20CAPITAL.pdf",
+    href: "https://raw.githubusercontent.com/fredericosampaiobarros-cpu/bruder-site/main/08%20-%20POLITICA%20DE%20SEGURANCA%20DA%20INFORMACAO%20E%20LGPD%20-%20BRUDER%20CAPITAL.pdf",
   },
   {
     name: "Política de PLD e KYC",
-    href: "/09%20-%20POLITICA%20DE%20PLD%20KYC%20-%20BRUDER%20CAPITAL.pdf",
+    href: "https://raw.githubusercontent.com/fredericosampaiobarros-cpu/bruder-site/main/09%20-%20POLITICA%20DE%20PLD%20KYC%20-%20BRUDER%20CAPITAL.pdf",
   },
   {
     name: "Política de Investimentos Pessoais e da Empresa",
-    href: "/10%20-%20POLITICA%20DE%20INVESTIMENTOS%20PESSOAIS%20E%20DA%20EMPRESA%20-%20BRUDER%20CAPITAL.pdf",
+    href: "https://raw.githubusercontent.com/fredericosampaiobarros-cpu/bruder-site/main/10%20-%20POLITICA%20DE%20INVESTIMENTOS%20PESSOAIS%20E%20DA%20EMPRESA%20-%20BRUDER%20CAPITAL.pdf",
   },
   {
     name: "Política de Suitability",
-    href: "/11%20-%20POLITICA%20DE%20SUITABILITY%20-%20BRUDER%20CAPITAL.pdf",
+    href: "https://raw.githubusercontent.com/fredericosampaiobarros-cpu/bruder-site/main/11%20-%20POLITICA%20DE%20SUITABILITY%20-%20BRUDER%20CAPITAL.pdf",
   },
 ]
 
